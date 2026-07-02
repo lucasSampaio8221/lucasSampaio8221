@@ -45,7 +45,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasSampaio8221&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasSampaio8221&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasSampaio8221&layout=compact&theme=dracula)
 
